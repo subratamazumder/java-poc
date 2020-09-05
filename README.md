@@ -1,6 +1,6 @@
 # Java Proof of Concepts
 ## Functional Programming
-## Java what's new in java14
+## What's new in Java14
 ## Common DS problems
 ### Tree
 ### Graph
