@@ -9,7 +9,7 @@ public class MyUtil {
         System.out.println(String.format("Line %s:%s:%s",stackTraceElements[1].getLineNumber(),stackTraceElements[1].getClassName(),stackTraceElements[1].getMethodName()));
     }
     public static void printJavaVersion(){
-        System.out.println("Program running on Java version -"+System.getProperty("java.version"));
+        System.out.println("Program is running on Java version -"+System.getProperty("java.version"));
     }
     public static void logTimeStart(StopWatch watch){
         watch.reset();
